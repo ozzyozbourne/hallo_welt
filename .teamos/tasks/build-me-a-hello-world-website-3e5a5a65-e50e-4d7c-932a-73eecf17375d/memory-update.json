@@ -1,0 +1,22 @@
+{
+  "operations": [
+    {
+      "action": "replace",
+      "id": "1b916758e838",
+      "category": "direction",
+      "content": "Build a minimal website centered on the German greeting ‘Hallo Welt’."
+    },
+    {
+      "action": "replace",
+      "id": "dc1ceccd2597",
+      "category": "current",
+      "content": "The first-run interview is complete. Implementation is underway for a personal Next.js/npm ‘Hallo Welt’ site in the public ozzyozbourne/hallo_welt repository."
+    },
+    {
+      "action": "replace",
+      "id": "bf302dc12316",
+      "category": "next",
+      "content": "Initialize Git and the public GitHub repository, implement the Next.js site, run the production build, and publish it."
+    }
+  ]
+}
