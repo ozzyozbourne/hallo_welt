@@ -35,6 +35,12 @@
       "id": "b43fd6a09c21",
       "category": "procedures",
       "content": "A successful npm run build generates the deployable static site in out/."
+    },
+    {
+      "action": "add",
+      "id": "971ef058ad42",
+      "category": "completed",
+      "content": "Published the validated site through Sites with owner-only access."
     }
   ]
 }
