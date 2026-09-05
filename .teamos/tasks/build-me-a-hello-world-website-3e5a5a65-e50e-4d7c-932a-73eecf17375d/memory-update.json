@@ -2,21 +2,39 @@
   "operations": [
     {
       "action": "replace",
-      "id": "1b916758e838",
-      "category": "direction",
-      "content": "Build a minimal website centered on the German greeting ‘Hallo Welt’."
+      "id": "7b95974220e7",
+      "category": "architecture",
+      "content": "The repository is a Next.js App Router application using npm, configured for static export to out/."
     },
     {
-      "action": "replace",
+      "action": "remove",
       "id": "dc1ceccd2597",
       "category": "current",
-      "content": "The first-run interview is complete. Implementation is underway for a personal Next.js/npm ‘Hallo Welt’ site in the public ozzyozbourne/hallo_welt repository."
+      "content": "The implementation is no longer in progress."
     },
     {
-      "action": "replace",
+      "action": "remove",
       "id": "bf302dc12316",
       "category": "next",
-      "content": "Initialize Git and the public GitHub repository, implement the Next.js site, run the production build, and publish it."
+      "content": "The initialization, implementation, validation, and repository push are complete."
+    },
+    {
+      "action": "add",
+      "id": "c8d1a274b630",
+      "category": "completed",
+      "content": "Built and production-validated a responsive, accessible single-page ‘Hallo Welt’ website and pushed it to the public GitHub repository ozzyozbourne/hallo_welt."
+    },
+    {
+      "action": "add",
+      "id": "302f6a18c94d",
+      "category": "commands",
+      "content": "Use npm run dev for local development and npm run build for the production static export."
+    },
+    {
+      "action": "add",
+      "id": "b43fd6a09c21",
+      "category": "procedures",
+      "content": "A successful npm run build generates the deployable static site in out/."
     }
   ]
 }
